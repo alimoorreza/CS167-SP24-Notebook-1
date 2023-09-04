@@ -1,6 +1,6 @@
 # Notebook #1: Python, Pandas, and Pokemon, Oh My!
 
-<b>Due</b>: Thursday, September 14th, 2023
+<b>Due</b>: Tuesday, September 12th, 2023
 
 ## How this is going to work: 
 
